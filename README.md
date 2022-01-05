@@ -1,8 +1,8 @@
 ### Hi there, I'm Ricky 👋 
 
-### Passionate front-end developer
+### Passionate front-end web developer
 
-- 🌱 I’m currently learning full stack web development but have a real passion for frontend web development
+- 🌱 I’m currently learning everything I can about frontend web development
 - 👯 I’m looking to collaborate with other developers and creatives
 - ⚡ Fun fact: I love to draw and paint
 
