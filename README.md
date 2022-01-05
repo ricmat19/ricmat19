@@ -50,6 +50,6 @@ GitHub Stats:
 
 Languages:
 
-<img align="left" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricmat19&show_icons=true&hide_border=true" />
+<img align="left" alt="Languages" src="https://github-readme-stats-ricmat19-2.vercel.app/api/top-langs/?username=ricmat19&show_icons=true&hide_border=true" />
 
 [linkedin]: https://www.linkedin.com/in/rick-del-cueto-353393131/
