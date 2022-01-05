@@ -53,15 +53,6 @@
 ---
 
 <details>
-<summary>Recent GitHub Activity:</summary>
-
-<!--START_SECTION:activity-->
-
-</details>
-
----
-
-<details>
 <summary>Languages:</summary>
 
 <img align="left" alt="Languages" src="https://github-readme-stats-ricmat19-2.vercel.app/api/top-langs/?username=ricmat19&show_icons=true&hide_border=true" />
