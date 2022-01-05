@@ -34,7 +34,7 @@
 
 GitHub Stats:
 
-<img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ricmat19&show_icons=true&hide_border=true" />
+<img align="left" alt="GitHub Stats" src="https://github-readme-stats-ricmat19-2.vercel.app/api?username=ricmat19&show_icons=true&hide_border=true" />
 
 <br/>
 <br/>
